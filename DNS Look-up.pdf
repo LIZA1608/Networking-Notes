@@ -1,3 +1,0 @@
-Domain Name System also known as DNS is a phonebook of the internet, which has related to the domain name.
-DNS translates the domain names to the respective IP address so that browsers can access the resources.
-Python provides DNS module which is used to handle this translation of domain names to IP addresses.
